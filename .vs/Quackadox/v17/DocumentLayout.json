@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuackadoxOld\\Quackadox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|d:\\quackadoxold\\quackadox\\assets\\scripts\\enemy\\lazerspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\lazerspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|d:\\quackadoxold\\quackadox\\assets\\scripts\\things in scene\\resetlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\things in scene\\resetlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\portal\\portaltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portal\\portaltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\player\\dash\\unlock behavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\dash\\unlock behavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\player\\damageplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\damageplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\ui\\ui_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\things in scene\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\things in scene\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\player\\attack\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\attack\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\managers\\checkpoint\\checkpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\checkpoint\\checkpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\player\\attack\\attackdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\attack\\attackdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\managers\\checkpoint\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\checkpoint\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|D:\\QuackadoxOld\\Quackadox\\assets\\scripts\\managers\\audio\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6D30AA-879B-13CB-749D-BC9C6B0715EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audio\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LazerSpawn.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Enemy\\LazerSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\LazerSpawn.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Enemy\\LazerSpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\LazerSpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:48:13.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetLevel.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Things in Scene\\ResetLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Things in Scene\\ResetLevel.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Things in Scene\\ResetLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Things in Scene\\ResetLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:42:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortalTrigger.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Portal\\PortalTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portal\\PortalTrigger.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Portal\\PortalTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portal\\PortalTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:03:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Unlock Behavior.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\Dash\\Unlock Behavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Dash\\Unlock Behavior.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\Dash\\Unlock Behavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Dash\\Unlock Behavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:56:53.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UI_Controls.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\UI\\UI_Controls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_Controls.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\UI\\UI_Controls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_Controls.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:05:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Things in Scene\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Things in Scene\\MovingPlatform.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Things in Scene\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Things in Scene\\MovingPlatform.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:39:16.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwHAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:21:31.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Managers\\Checkpoint\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Checkpoint\\Checkpoint.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Managers\\Checkpoint\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Checkpoint\\Checkpoint.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:19:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckpointManager.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Managers\\Checkpoint\\CheckpointManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Checkpoint\\CheckpointManager.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Managers\\Checkpoint\\CheckpointManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Checkpoint\\CheckpointManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:18:39.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Managers\\Audio\\Sound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Audio\\Sound.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Managers\\Audio\\Sound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Audio\\Sound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:16:06.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:15:13.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DamagePlayer.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\DamagePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DamagePlayer.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\DamagePlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\DamagePlayer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwDMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:06:54.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\Attack\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Attack\\PlayerAttack.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\Attack\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Attack\\PlayerAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:47:39.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttackDamage.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\Attack\\AttackDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Attack\\AttackDamage.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\Attack\\AttackDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Attack\\AttackDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:44:31.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:44:15.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\QuackadoxOld\\Quackadox\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwIsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:05:47.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
